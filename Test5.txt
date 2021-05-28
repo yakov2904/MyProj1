@@ -1,13 +1,8 @@
-ddddddddddddddddddddddddddd
-לוח הבקרה\תוכניות\תוכניות ותכונות
+ git remote add newOrigin https://github.com/yakov3004/MyProj1
+ git remote add origin https://github.com/yakov2904/MyProj1
 
-5/2/1i
-/t/////////////////////////http://seretil.me//
+git remote -v
+git config --global user.name "Your Name Comes Here"
+$ git config --global user.email you@yourdomain.example.com
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbb
-
-ssssssssssssssssssssssssssss
-
-dddd
-pppppppppppppppppp
+git clone https://github.com/yakov2904/MyProj1
