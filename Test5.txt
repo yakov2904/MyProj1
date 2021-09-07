@@ -1,6 +1,6 @@
  git remote add newOrigin https://github.com/yakov3004/MyProj1
  git remote add origin https://github.com/yakov2904/MyProj1
-
+sss
 git remote -v
 git config --global user.name "Your Name Comes Here"
 $ git config --global user.email you@yourdomain.example.com
