@@ -6,3 +6,8 @@ git config --global user.name "Your Name Comes Here"
 $ git config --global user.email you@yourdomain.example.com
 
 git clone https://github.com/yakov2904/MyProj1
+
+
+
+C:\proj\MyProj1\MyProj1
+main
